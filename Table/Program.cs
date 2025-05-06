@@ -22,7 +22,7 @@
             Console.WriteLine("--------------------------------------------------------");
             Console.WriteLine("&\t|\t^\t&&\t||\t!\t!");
             Console.WriteLine("--------------------------------------------------------");
-            Console.WriteLine($"{valueOne & valueTwo}\t{valueOne | valueTwo}\t{valueOne ^ valueTwo}\t{valueOne && valueTwo}\t{valueOne || valueTwo}\t{!valueOne}\t{!valueTwo}");
+            Console.WriteLine($"{andBitwise}\t{orBitwise}\t{xorBitwise}\t{andLogical}\t{orLogical}\t{notValueOne}\t{notValueTwo}");
             Console.WriteLine("--------------------------------------------------------");
 
 

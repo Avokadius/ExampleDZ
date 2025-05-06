@@ -12,3 +12,4 @@ D:\IT Academy\ExampleDZ\Table\obj\Debug\net9.0\refint\Table.dll
 D:\IT Academy\ExampleDZ\Table\obj\Debug\net9.0\Table.pdb
 D:\IT Academy\ExampleDZ\Table\obj\Debug\net9.0\Table.genruntimeconfig.cache
 D:\IT Academy\ExampleDZ\Table\obj\Debug\net9.0\ref\Table.dll
+D:\IT Academy\ExampleDZ\Table\obj\Debug\net9.0\Table.sourcelink.json
